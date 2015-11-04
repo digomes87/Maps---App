@@ -30,6 +30,10 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Because I want know when you are,my Bitch!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Because I always know when you Stay Bitch</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
